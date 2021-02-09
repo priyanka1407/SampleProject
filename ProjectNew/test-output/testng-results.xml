@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-09T15:51:15 IST" name="Default suite" finished-at="2021-02-09T15:53:35 IST" duration-ms="139307">
+    <groups>
+    </groups>
+    <test started-at="2021-02-09T15:51:15 IST" name="Default test" finished-at="2021-02-09T15:53:35 IST" duration-ms="139307">
+      <class name="TestNGRun.NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestNGRun.NewTest@44a7bfbc]" started-at="2021-02-09T15:51:15 IST" name="beforeSuite" finished-at="2021-02-09T15:51:15 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestNGRun.NewTest@44a7bfbc]" started-at="2021-02-09T15:51:15 IST" name="beforeTest" finished-at="2021-02-09T15:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:TestNGRun.NewTest@44a7bfbc]" started-at="2021-02-09T15:51:16 IST" name="f" finished-at="2021-02-09T15:53:35 IST" duration-ms="139218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestNGRun.NewTest@44a7bfbc]" started-at="2021-02-09T15:53:35 IST" name="afterTest" finished-at="2021-02-09T15:53:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:TestNGRun.NewTest@44a7bfbc]" started-at="2021-02-09T15:53:35 IST" name="afterSuite" finished-at="2021-02-09T15:53:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNGRun.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
